@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/NLog/NLog.Contrib.ActiveMQ</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Send log message from NLog to ActiveMQ</description>
-    <releaseNotes>Send log message from NLog to ActiveMQ</releaseNotes>
+    <releaseNotes>Updated to NLog 4.0</releaseNotes>
     <copyright>Copyright 2015</copyright>
     <tags>nlog target activemq</tags>
   </metadata>
