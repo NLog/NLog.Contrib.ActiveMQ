@@ -1,3 +1,7 @@
+
+> [!IMPORTANT]
+> This package is no longer maintained. [NLog.Targets.ActiveMQ](https://www.nuget.org/packages/NLog.Targets.ActiveMQ/)  is recommended (third party package)
+
 # NLog.Contrib.ActiveMQ
 
 [![Version](https://badge.fury.io/nu/NLog.Contrib.ActiveMQ.svg)](https://www.nuget.org/packages/NLog.Contrib.ActiveMQ)
